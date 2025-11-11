@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3_Story</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_vi">Vietnamese</string>
+    <string name="menu_en">English</string>
+    <string name="menu_rotation">Allow rotation</string>
+    <string name="txt_name">Rabbit</string>
+    <string name="txt_desc"><![CDATA[
+Rabbits are small mammals in the family Leporidae (along with the hare)
+of the order Lagomorpha (along with the pika).
+]]></string>
+</resources>

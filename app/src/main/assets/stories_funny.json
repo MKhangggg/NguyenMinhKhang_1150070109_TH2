@@ -1,0 +1,37 @@
+[
+  {
+    "id": "f1",
+    "topicId": "funny",
+    "title": "Cười chút",
+    "brief": "Mở đầu nhẹ nhàng, pha chút ngốc nghếch",
+    "content": "Một ngày nọ, thầy giáo hỏi Tí:\n- Em hãy cho biết trái đất hình gì?\nTí đáp: Dạ hình tròn ạ!\nThầy gật đầu: Giỏi! Ai nói cho em biết?\nTí: Dạ, thầy hôm qua mới nói ạ!\nThầy: Vậy nếu thầy nói trái đất hình vuông thì sao?\nTí suy nghĩ một lát rồi đáp: Dạ thì... em cũng tin, vì thầy không bao giờ nói sai ạ!"
+  },
+  {
+    "id": "f2",
+    "topicId": "funny",
+    "title": "Vừa đúng vừa sai",
+    "brief": "Tư duy logic kiểu học sinh ‘nhà người ta’",
+    "content": "Trong giờ kiểm tra Toán, cô hỏi Nam:\n- Em nói xem, nếu 5 con chim đậu trên cành, bắn rớt 1 con, còn mấy con?\nNam trả lời: Dạ, còn 0 con ạ, vì bắn 1 con thì mấy con kia bay hết rồi.\nCô cười: Em trả lời sai, nhưng cô thích cách em suy nghĩ.\nNam đáp: Dạ, cô cũng sai, nhưng em cũng thích cách cô cười ạ!"
+  },
+  {
+    "id": "f3",
+    "topicId": "funny",
+    "title": "Đi học muộn",
+    "brief": "Lý do chính đáng đến khó tin",
+    "content": "Cô giáo hỏi:\n- Sao hôm nay em đi học muộn thế?\nTèo trả lời:\n- Dạ, sáng nay em nằm mơ thấy đang đi học ạ.\nCô nhíu mày: Rồi sao?\nTèo: Dạ, em tưởng là em đã đi học rồi nên ngủ tiếp ạ!"
+  },
+  {
+    "id": "f4",
+    "topicId": "funny",
+    "title": "Ăn kiêng kiểu mới",
+    "brief": "Cách giảm cân bá đạo",
+    "content": "Hai cô bạn gặp nhau:\n- Cậu giảm cân giỏi quá! Cách gì thế?\n- Tớ đọc báo thấy người ta khuyên 'ăn ít nói nhiều', nên tớ vừa ăn ít vừa cãi nhau với tủ lạnh mỗi tối.\n- Kết quả?\n- Tủ lạnh thua, tớ thắng… mà vẫn chưa giảm được ký nào!"
+  },
+  {
+    "id": "f5",
+    "topicId": "funny",
+    "title": "Khách hàng thông minh",
+    "brief": "Một tình huống tại tiệm cắt tóc",
+    "content": "Khách hỏi: Cắt tóc bao nhiêu tiền?\nThợ: 50 nghìn.\nKhách: Thế còn cắt đẹp thì sao?\nThợ: 100 nghìn.\nKhách: Sao đắt thế?\nThợ: Vì cắt đẹp tốn công hơn… phải cắt lại lần 2!"
+  }
+]

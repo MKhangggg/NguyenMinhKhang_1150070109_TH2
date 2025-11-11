@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Truyện Cười</string>
+    <string name="menu_language">Ngôn ngữ</string>
+    <string name="menu_vi">Tiếng Việt</string>
+    <string name="menu_en">Tiếng Anh</string>
+    <string name="menu_rotation">Cho phép xoay</string>
+    <string name="txt_name">Thỏ</string>
+    <string name="txt_desc"><![CDATA[
+Thỏ là loài động vật có vú nhỏ trong họ Leporidae (cùng với thỏ rừng),
+thuộc bộ Lagomorpha (cùng với pika).
+Oryctolagus cuniculus bao gồm các loài thỏ châu Âu và 305 giống thỏ nhà trên thế giới.
+]]></string>
+</resources>
